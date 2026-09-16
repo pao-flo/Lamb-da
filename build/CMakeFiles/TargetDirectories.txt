@@ -1,0 +1,3 @@
+/Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/build/CMakeFiles/lambdaUnoPruebaMarkers.dir
+/Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/build/CMakeFiles/edit_cache.dir
+/Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/build/CMakeFiles/rebuild_cache.dir

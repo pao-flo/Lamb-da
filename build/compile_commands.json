@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5 -std=gnu++17 -arch arm64 -o CMakeFiles/lambdaUnoPruebaMarkers.dir/main.cpp.o -c /Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/main.cpp",
+  "file": "/Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/main.cpp",
+  "output": "CMakeFiles/lambdaUnoPruebaMarkers.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/build",
+  "command": "/usr/bin/c++  -I/opt/homebrew/include -isystem /opt/homebrew/Cellar/opencv/5.0.0_7/include/opencv5 -std=gnu++17 -arch arm64 -o CMakeFiles/lambdaUnoPruebaMarkers.dir/vis.cpp.o -c /Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/vis.cpp",
+  "file": "/Users/alanmeade/Downloads/lambdaUnoPruebaMarkers/vis.cpp",
+  "output": "CMakeFiles/lambdaUnoPruebaMarkers.dir/vis.cpp.o"
+}
+]
